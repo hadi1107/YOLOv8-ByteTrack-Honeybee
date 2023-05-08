@@ -1,0 +1,6 @@
+path: ../datasets/bees480  # dataset root dir
+train: train.txt  # train images (relative to 'path') 
+val: val.txt  # val images (relative to 'path') 
+
+names:
+  0: bee
